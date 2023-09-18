@@ -643,6 +643,7 @@ vendor/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so
 vendor/lib/hw/gf_fingerprint.default.so
 vendor/lib/libgf_ca.so
 vendor/lib/libgf_hal.so
+odm/lib/libRbsFlow.so
 vendor/lib/libgoodixhwfingerprint.so
 vendor/lib/vendor.goodix.hardware.biometrics.fingerprint@2.1.so
 vendor/lib64/hw/fpc_fingerprint.default.so
@@ -650,6 +651,7 @@ vendor/lib64/hw/gf_fingerprint.default.so
 vendor/lib64/com.fingerprints.extension@1.0.so
 vendor/lib64/libgf_ca.so
 vendor/lib64/libgf_hal.so
+odm/li/libRbsFlow.so
 vendor/lib64/libgoodixhwfingerprint.so
 vendor/lib64/vendor.goodix.hardware.biometrics.fingerprint@2.1.so
 vendor/lib64/vendor.xiaomi.hardware.fingerprintextension@1.0.so
