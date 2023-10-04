@@ -244,6 +244,14 @@ PRODUCT_PACKAGES += \
 
 # Properties
 -include $(LOCAL_PATH)/vendor_logtag.mk
+PRODUCT_COMPATIBLE_PROPERTY_OVERRIDE := true
+
+# Protobuf
+PRODUCT_PACKAGES += \
+    libprotobuf-cpp-full-3.9.1-vendorcompat \
+    libprotobuf-cpp-full-vendorcompat \
+    libprotobuf-cpp-lite-vendorcompat
+
 
 # Public Libraries
 PRODUCT_COPY_FILES += \
